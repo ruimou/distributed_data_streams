@@ -1,0 +1,9 @@
+{
+    "rpc-ip-port": ":12345",
+    "node-settings": {
+        "heartbeat": 10000,
+        "min-replicas": 2,
+        "cluster-size": 4
+    },
+    "data-filepath": "/home/416/proj2_g4w8_g6y9a_i6y8_o5z8/server/server.json"
+}
